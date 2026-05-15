@@ -1,0 +1,6 @@
+.DS_Store
+paint
+*.o
+*.out
+*.log
+saved-canvas*.txt
